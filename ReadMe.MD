@@ -49,7 +49,7 @@ I’m proud to have completed Code in Place 2025! You can view my official Stanf
 
 <p align="center">
   <a href="https://codeinplace.stanford.edu/cip5/certificate/7svym9">
-    <img src="https://github.com/BrendaCantuL/Images/blob/main/Code-In-Place%202025%20Certificate%20QR.png" alt="Code in Place Certificate QR" width="30%" />
+    <img src="https://github.com/BrendaCantuL/Images/blob/main/CIP_QR_Code.png" alt="Code in Place Certificate QR" width="30%" />
   </a>
 
 Or just click here: [https://codeinplace.stanford.edu/cip5/certificate/7svym9](https://codeinplace.stanford.edu/cip5/certificate/7svym9)
