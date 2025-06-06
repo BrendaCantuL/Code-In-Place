@@ -1,5 +1,7 @@
 # 🌟 Code in Place 2025 — My Journey
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+
 Welcome! This repo showcases my progress through [Code in Place](https://codeinplace.stanford.edu/) 2025 — a free, community-powered introduction to computer science taught by Stanford.
 
 ## ✨ About the Course
@@ -12,9 +14,9 @@ This repository contains the exercises, mini-projects, and final project I compl
 
 ### ✅ Week-by-Week Highlights
 
-- **Week 1–2:** Learned variables, functions, conditionals, and loops
-- **Week 3–4:** Practiced with graphics, debugging, and breaking problems into steps
-- **Week 5–6:** Built interactive programs like Karel puzzles, memory games, and animations
+- **Week 1–2:** Learned variables, functions, conditionals, and loops  
+- **Week 3–4:** Practiced with graphics, debugging, and breaking problems into steps  
+- **Week 5–6:** Built interactive programs like Karel puzzles, memory games, and animations  
 
 ### 🏁 Final Project — Running Tracker App
 
@@ -27,17 +29,25 @@ My final project is a console-based **Running Tracker App** that lets users inpu
 
 ## 🎯 Skills Gained
 
-- Python programming fundamentals
-- Control flow, functions, and data structures
-- Working with graphics (using `tkinter` and custom libraries)
-- Problem decomposition and iterative design
-- Creative thinking through code
+- Python programming fundamentals  
+- Control flow, functions, and data structures  
+- Working with graphics (using `tkinter` and custom libraries)  
+- Problem decomposition and iterative design  
+- Creative thinking through code  
 
 ## 🚀 Looking Ahead
 
 Code in Place gave me confidence in writing Python code and solving problems step by step. I'm excited to continue building more projects, learn about automation, and explore data analysis and web development next.
 
+## 🏅 Certificate of Completion
+
+I’m proud to have completed Code in Place 2025! You can view my official Stanford-issued certificate using the QR code below:
+
+![Code in Place Certificate QR](https://github.com/BrendaCantuL/Images/blob/main/Code-In-Place%202025%20Certificate%20QR.png)
+
+Or just click here: [https://codeinplace.stanford.edu/cip5/certificate/7svym9](https://codeinplace.stanford.edu/cip5/certificate/7svym9)
+
 ---
 
 👩‍💻 Made with heart (and lots of `print()` statements) by [Brenda Cantu](https://github.com/BrendaCantuL)  
-📅 Spring 2025  
+📅 Spring 2025
