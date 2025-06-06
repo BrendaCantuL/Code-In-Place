@@ -23,8 +23,7 @@ This repository contains the exercises, mini-projects, and final project I compl
 [📂 09 - Final Proyect](./09%20-%20Final%20Proyect/)  
 My final project is a console-based **Running Tracker App** that lets users input their run details (date, distance, time), calculates pace in min:sec/km, and displays summaries including total distance and average pace.
 
-![Running Tracker App](./09%20-%20Final%20Proyect/Image.png)
-<img src="./09%20-%20Final%20Proyect/Image.png" alt="Running Tracker App" width="50%" />
+<center><img src="./09%20-%20Final%20Proyect/Image.png" alt="Running Tracker App" width="50%" /></center>
 
 🧠 *What I learned:* Formatting pace into readable time, validating user input, and organizing code with functions and loops were key takeaways. I also practiced creating clean output and making the app intuitive to use.
 
