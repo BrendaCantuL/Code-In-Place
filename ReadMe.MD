@@ -51,10 +51,11 @@ I’m proud to have completed Code in Place 2025! You can view my official Stanf
   <a href="https://codeinplace.stanford.edu/cip5/certificate/7svym9">
     <img src="https://github.com/BrendaCantuL/Images/blob/main/CIP_QR_Code.jpg" alt="Code in Place Certificate QR" width="15%" />
   </a>
-
-Or just click here: [https://codeinplace.stanford.edu/cip5/certificate/7svym9](https://codeinplace.stanford.edu/cip5/certificate/7svym9)
 </p>
 
+<p align="center">
+  Or just click here: <a href="https://codeinplace.stanford.edu/cip5/certificate/7svym9">https://codeinplace.stanford.edu/cip5/certificate/7svym9</a>
+</p>
 ---
 
 👩‍💻 Made with heart (and lots of `print()` statements) by [Brenda Cantu](https://github.com/BrendaCantuL)  
